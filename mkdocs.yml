@@ -1,0 +1,7 @@
+site_name: Vless Proxy & ChatGPT
+nav:
+  - 1. Включаем Proxy: 01. Vless VPN Client.md
+  - 2. Переходим на ChatGPT: 02. Переход на ChatGPT.md
+  - 3. Авторизация на ChatGPT: 03. Авторизация ChatGPT.md
+theme:
+  name: material
