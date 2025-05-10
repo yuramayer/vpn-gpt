@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Proxy & ChatGPT
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Привет! 👋  
 
-## Commands
+Здесь ты найдёшь инструкцию, как работать с моим VPN и пользоваться ChatGPT
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+В случае вопросов пиши: **[Юра, t.me/botrqst](https://t.me/botrqst)**
